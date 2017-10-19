@@ -2,7 +2,7 @@
 
 # Website settings
 title: Matteo Di Pirro's personal webpage
-description: Matteo's blog,use Jekyll and github pages.
+description: Matteo's webpage.
 keywords: Matteo-Di-Pirro,Jekyll,github,gh-pages
 baseurl:  /mdipirro.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://mdipirro.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
