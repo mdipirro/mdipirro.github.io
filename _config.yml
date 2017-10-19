@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Matteo Di Pirro  # Be used at blog posts' author.
   first_name: Matteo  # Be used at index page about me section.
   last_name: Di Pirro  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.png  # upload your avatar at directory and edit it.
   github_username: mdipirro  # Leave blank if you don't have now
   linkedin_id: matteo-di-pirro-435262115 # Leave blank if you don't have now
   facebook_username: matteo.dipirro.5  # Leave blank if you don't have now
