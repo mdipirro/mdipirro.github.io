@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-haskell
     - name: fa-terminal
-  desc: I am a Master Student in Computer Science at the University of Padua (Italy), and currently an Erasmus Student at KU Leuven. I am interested in almost all aspects of Computer Science and Computer Security, mostly in the design of secure and reliable systems. I am very passionate with everything regarding software and programming.
+  desc: I am a Master Student in Computer Science at the University of Padua (Italy), and currently an Erasmus Student at KU Leuven. I am interested in almost all aspects of Computer Science and Computer Security, mostly in the design of secure and reliable systems. I am very passionate about everything regarding software and programming.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
