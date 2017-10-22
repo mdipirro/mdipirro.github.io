@@ -15,11 +15,11 @@ author:  # change following line to your infomation.
   first_name: Matteo  # Be used at index page about me section.
   last_name: Di Pirro  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.png  # upload your avatar at directory and edit it.
-  github_username: mdipirro  # Leave blank if you don't have now
-  linkedin_id: matteo-di-pirro-435262115 # Leave blank if you don't have now
-  facebook_username: matteo.dipirro.5  # Leave blank if you don't have now
+  github_username:   # Leave blank if you don't have now
+  linkedin_id:  # Leave blank if you don't have now
+  facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
-  email: matteodipirro@gmail.com  # Leave blank if you don't have now
+  email:   # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:

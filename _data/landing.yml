@@ -23,3 +23,9 @@
   name: Projects
   tpl: projects.html
   css: project
+
+- id: contacts
+  i18n: nav.projects
+  name: Contacts
+  tpl: contacts.html
+  css: project

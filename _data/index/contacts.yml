@@ -1,0 +1,18 @@
+# contacts section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Send me an email
+  url: mailto:matteodipirro@gmail.com
+  img: /static/assets/img/landing/gmail.png
+
+- name: View my LinkedIn profile
+  url: https://www.linkedin.com/in/matteo-di-pirro-435262115/
+  img: /static/assets/img/landing/linkedin.png
+
+- name: View my GitHub profile
+  url: https://github.com/mdipirro
+  img: /static/assets/img/landing/github.png
+
+- name: Read my CV
+  url: /static/cv/CV-Matteo_Di_Pirro.pdf
+  img: /static/assets/img/landing/cv.png
