@@ -48,6 +48,11 @@ permalink: /
   {% include sections/{{section.tpl}} %}
 </section>
 {% endfor %}
+<div class="row">
+    <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
+        <p id="jalpc_site_pv"><strong>&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}</strong></p>
+    </div>
+</div>
 <style>
 iframe {
   -moz-transform: scale(0.25, 0.25);
