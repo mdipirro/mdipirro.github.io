@@ -2406,7 +2406,6 @@ body {
     border-color: transparent;
     transition: all .3s ease-in-out 0s;
     .nav li a {
-      color: #fff;
       font-family: 'Open Sans', helvetica, arial, sans-serif;
       font-weight: 700;
       letter-spacing: 1px;
@@ -2422,7 +2421,6 @@ body {
     .navbar-nav > {
       .active > a {
         background: 0 0;
-        color: #fff;
         border-top: 6px solid #3385FF;
         &:hover {
           background: 0 0;
