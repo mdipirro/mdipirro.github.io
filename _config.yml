@@ -23,12 +23,12 @@ author:  # change following line to your infomation.
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: fa-code
+    - name: icon-database
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
-  desc: Introduce myself will be here  # Describe yourself.
+    - name: icon-haskell
+    - name: fa-terminal
+  desc: I am a Master Student in Computer Science at the University of Padua (Italy), and currently an Erasmus Student at KU Leuven. I am interested in almost all aspects of Computer Science and Computer Security, mostly in the design of secure and reliable systems. I am very passionate with everything regarding software and programming.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

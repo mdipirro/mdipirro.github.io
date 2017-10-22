@@ -1,22 +1,31 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: LispKit parser
+  url: https://github.com/mdipirro/functional-languages-homeworks/tree/master/Project
+  img: /static/assets/img/landing/haskell.png
+  desc: Parser for the LispKit's grammar developed in Haskell.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Haskell Secure Library
+  gh_user: mdipirro
+  repo: haskell-secure-types-library
+  img: /static/assets/img/landing/haskell.png
+  desc: Library to ensure information security properties on Haskell applications. The paper titled "Ensuring Information Security By Using Haskell's Advanced Type System" is based on it.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Forza e Coraggio
+  gh_user: mdipirro
+  repo: Forza-e-Coraggio
+  img: /static/assets/img/landing/website.png
+  desc: Full accessible ('AAA' WCAG rating) developed as a final project for the course "Web Technologies" at the University of Padua. I developed the backend part, using XML for storing information and Perl to serve dynamic web pages.
+
+- name: Actors Model in Java
+  gh_user: mdipirro
+  repo: pcd-actors
+  img: /static/assets/img/landing/java.png
+  desc: Mock system that abstract a simplified implementation of the actor model developed in Java as part of the "Distributed and Concurrent Programming" course at the University of Padua.
+
+- name: LinQedIn
+  gh_user: mdipirro
+  repo: LinQedIn
+  img: /static/assets/img/landing/cpp.png
+  desc: Small LinkedIn-like social network developed (in Qt/C++) as part of the "Object-Oriented Programming" course at the University of Padua. It offers simple client as well as admin functionality.

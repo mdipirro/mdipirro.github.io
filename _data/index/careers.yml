@@ -1,29 +1,31 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Graduation
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: I earned a BSc in Computer Science after attending the University of Padua (Italy).
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Sep. 2016
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
+    detail: Student
+  icon: fa-graduation-cap
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Athesys SRL
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: I worked at Athesys SRL as an internship for my Bachelor thesis. I learned how to use the MEAN stack to develop the backend part of a web application.
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: May. 2016
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    detail: Software Engineer
+  icon: icon-nodejs
+
+- name:
+    detail: CNR - Institute of Biomedical Engineering
+  desc:
+    detail: I worked at CNR for two months as an internship. I developed a basic content management system based on HTML, PHP, MySQL and JavaScript.
+  date:
+    detail: Jun. 2012
+  job:
+    detail: Programmer
+  icon: icon-php
