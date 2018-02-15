@@ -1,6 +1,26 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Erasmus
+  desc:
+    detail: I've been an Erasmus student at KU Leuven for 5 months (Sept 2017 - Feb 2018). I deepened my knowledge about software design.
+  date:
+    detail: Sep. 2017
+  job:
+    detail: Erasmus Student
+  icon: fa-graduation-cap
+
+- name:
+    detail: MSc
+  desc:
+    detail: I started my MSc in Computer Science at University of Padua, minors in "Design of reliable systems" and "Software". 
+  date:
+    detail: Sep. 2016
+  job:
+    detail: Student
+  icon: fa-graduation-cap
+
+- name:
     detail: Graduation
   desc:
     detail: I earned a BSc in Computer Science after attending the University of Padua (Italy).
