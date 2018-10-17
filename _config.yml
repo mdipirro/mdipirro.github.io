@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Matteo Di Pirro's personal webpage
+title: Matteo Di Pirro
 description: Matteo's webpage.
 keywords: Matteo-Di-Pirro,Jekyll,github,gh-pages
 baseurl:  /mdipirro.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-haskell
     - name: fa-terminal
-  desc: I am a Master Student in Computer Science at the University of Padua (Italy). I am interested in almost all aspects of Computer Science and Computer Security, mostly in the design of secure and reliable systems. I am very passionate about everything regarding software and programming.
+  desc: <p>A good friend of mine once told me "Sky is the limit, buddy". That's the best motivational sentence I've ever heard, but I strongly believe that no limit is too high when you deeply love what you do. This is what I feel about computer science. I am an enthusiastic software engineer passionate about technologies and always seeking for new tough goals to achieve and stars to reach for.</p><p>Five years ago, I understood that computer science was what I really wanted to pledge my career to. The reason? I seriously love the idea of telling a machine what to do. I earned my MSc in Padua and I've been an Erasmus student in Belgium, at KU Leuven. There, I've grown not only as a professionist, but also as a man. I also realized that the highest results are reachable only as long as you are part of a team. That might not be the fastest way, but you'll never get to the top on your own.</p><p>I also realized that I was ready and willing to leave my home country, Italy, to broaden my skills working abroad.</p><p>My academic path focused on the design of reliable, safe, and secure systems as well as on the software running on them. I can program in many languages, including, but not limited to, C, C++, Java, Python, JavaScript, Haskell, and Solidity. I am passionate about what's under the hood of programming, with special interests on its formal and verification aspects.</p><p>Outside the office, I love doing sports, especially when that means running. I like reading and watching TV series, and I often do that to improve my language skills. I'm fluent in English and trying to become so in French as well. Travelling completes the list of my hobbies. I love visiting new places, always looking for the best picture to use as a next wallpaper on my laptop.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
