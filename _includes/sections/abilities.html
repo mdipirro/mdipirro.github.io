@@ -1,0 +1,55 @@
+<script>
+function fillStars(ctx, labels, stars) {
+    var content = "<ul class='no-bullets'>";
+
+    for (var i = 0; i < labels.length; i++) {
+        content += "<li>" + labels[i];
+        for (var j = 5; j > 0; j--) {
+            if (j <= stars[i]) {
+                content += "<span class='fa fa-star star-common checked'></span>";
+            } else {
+                content += "<span class='fa fa-star star-common not-checked'></span>";
+            }
+        }
+        content += "</li>";
+    }
+    content += "</ul>";
+
+    ctx.innerHTML = content;
+}
+</script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center" id="i18_abilities">
+            <div class="navy-line"></div>
+            <h1><span data-i18n="abilities.my_abilities">Abilities</span></h1>
+            <h3>"Wisdom is not a product of schooling but of the lifelong attempt to acquire it."</h3>
+            <h5>- Albert Einstein</h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12 text-center" id="i18_skills">
+            <div class="navy-line"></div>
+            <h2><span data-i18n="abilities.my_skills">Skills</span></h2>
+        </div>
+    </div>
+    <div class="row features-block">
+            <div id="{{ site.data.index.skills.id }}"></div>
+        <script>
+            fillStars(document.getElementById("{{ site.data.index.skills.id }}"),"{{ site.data.index.skills.aspects }}".split(","),"{{ site.data.index.skills.percentage }}".split(","));
+        </script>
+    </div>
+    <div class="row">
+        <div class="col-lg-12 text-center" id="i18_skills">
+            <div class="navy-line"></div>
+            <h2><span data-i18n="abilities.my_languages">Languages</span></h2>
+        </div>
+    </div>
+    <div class="row features-block">
+        <div id="{{ site.data.index.languages.id }}"></div>
+        <script>
+            fillStars(document.getElementById("{{ site.data.index.languages.id }}"), "{{ site.data.index.languages.aspects }}".split(","), "{{ site.data.index.languages.percentage }}".split(","));
+        </script>
+    </div>
+</div>
