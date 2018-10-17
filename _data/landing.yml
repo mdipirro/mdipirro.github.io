@@ -12,10 +12,10 @@
   tpl: career.html
   css: timeline
 
-- id: skills
-  i18n: nav.skills
-  name: Skills
-  tpl: skills.html
+- id: Abilities
+  i18n: nav.abilities
+  name: Abilities
+  tpl: abilities.html
   css: team
 
 - id: projects
@@ -24,10 +24,10 @@
   tpl: projects.html
   css: project
 
-- id: publications
-  i18n: nav.publications
-  name: Publications
-  tpl: publications.html
+- id: writings
+  i18n: nav.writings
+  name: Writings
+  tpl: writings.html
   css: 
 
 - id: contacts
