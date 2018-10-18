@@ -4,7 +4,7 @@
 - name: LispKit parser
   url: https://github.com/mdipirro/functional-languages-homeworks/tree/master/Project
   img: /static/assets/img/landing/haskell.png
-  desc: Parser for the LispKit's grammar developed in Haskell.
+  desc: Parser for LispKit's grammar developed in Haskell.
 
 - name: Haskell Secure Library
   gh_user: mdipirro
@@ -16,16 +16,16 @@
   gh_user: mdipirro
   repo: Forza-e-Coraggio
   img: /static/assets/img/landing/website.png
-  desc: Full accessible ('AAA' WCAG rating) developed as a final project for the course "Web Technologies" at the University of Padua. I developed the backend part, using XML for storing information and Perl to serve dynamic web pages.
+  desc: Full accessible ('AAA' WCAG rating) developed as a final project for the course "Web Technologies" at Università degli Studi di Padova. I developed the backend part, using XML for storing information and Perl to serve dynamic web pages.
 
 - name: Actors Model in Java
   gh_user: mdipirro
   repo: pcd-actors
   img: /static/assets/img/landing/java.png
-  desc: Mock system that abstract a simplified implementation of the actor model developed in Java as part of the "Distributed and Concurrent Programming" course at the University of Padua.
+  desc: Mock system that abstracts a simplified implementation of the actor model developed in Java. This project was undertaken as part of the "Distributed and Concurrent Programming" course at the Università degli Studi di Padova.
 
 - name: LinQedIn
   gh_user: mdipirro
   repo: LinQedIn
   img: /static/assets/img/landing/cpp.png
-  desc: Small LinkedIn-like social network developed (in Qt/C++) as part of the "Object-Oriented Programming" course at the University of Padua. It offers simple client as well as admin functionality.
+  desc: Small LinkedIn-like social network developed (in Qt/C++) as part of the "Object-Oriented Programming" course at Università degli Studi di Padova. It offers simple client as well as admin functionality.
