@@ -5,15 +5,15 @@
   url: mailto:matteodipirro@gmail.com
   img: /static/assets/img/landing/gmail.png
 
-- name: View my LinkedIn profile
-  url: https://www.linkedin.com/in/matteo-di-pirro-435262115/
-  img: /static/assets/img/landing/linkedin.png
-
 - name: View my GitHub profile
   url: https://github.com/mdipirro
   img: /static/assets/img/landing/github.png
 
+- name: View my LinkedIn profile
+  url: https://www.linkedin.com/in/matteo-di-pirro-435262115/
+  img: /static/assets/img/landing/in.png
+
 - name: Read my CV
   url: /static/cv/CV-Matteo_Di_Pirro.pdf
   img: /static/assets/img/landing/cv.png
-  desc: Please take note this might not be up-to-date. Refer to my LinkedIn profile for further and up-to-date information.
+  desc: Please take note this might not be up-to-date or not contain exhaustive descriptions of my activities. Refer to my LinkedIn profile for further and up-to-date information.
