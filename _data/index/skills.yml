@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: MongoDB, MySQL, Node.js, Haskell, Java, C/C++, Android, LaTeX, Solidity
-percentage: 4, 3, 4, 5, 5, 4, 3, 5, 5
+aspects: MongoDB, MySQL, Node.js, Haskell, Java, C, C++, Android, LaTeX, Solidity, Docker, Coq
+percentage: 4, 3, 4, 5, 5, 4, 4, 3, 5, 5, 1, 1
