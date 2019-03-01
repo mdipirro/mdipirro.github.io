@@ -1,6 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Akka Technologies
+  desc:
+    detail: Graduate consultant in the field of software engineering. I have worked in Geneva (Switzerland) and in Sophia-Antipolis (France).
+  date:
+    detail: Jan. 2019
+  job:
+    detail: Graduate Software Engineer
+  icon: fa-address-card
+
+- name:
     detail: Graduation
   desc:
     detail: I earned an MSc in Computer Science at Università degli Studi di Padova (Italy).
