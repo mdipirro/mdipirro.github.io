@@ -29,3 +29,9 @@
   repo: LinQedIn
   img: /static/assets/img/landing/cpp.png
   desc: Small LinkedIn-like social network developed (in Qt/C++) as part of the "Object-Oriented Programming" course at Università degli Studi di Padova. It offers simple client as well as admin functionality.
+
+- name: QuizFight
+  gh_user: RogueOneQF
+  repo: /
+  img: /static/assets/img/landing/node.jpg
+  desc: Round-based trivia quiz application for Android making use of a Node.js server to handle rounds, questions and scores. The application could connect with Facebook and Google Play Services to support achievements, rankings, and matches against friends.
