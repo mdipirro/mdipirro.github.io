@@ -186,6 +186,18 @@ h3, h4, h5 {
   font-size: medium;
 }
 
+.pubs li{
+  margin-top: 15px;
+}
+
+.pubs li:first-child {
+  margin-top:0;
+}
+
+.thesis {
+  font-size: medium;
+}
+
 body {
   &.fixed-nav #wrapper #page-wrapper {
     margin-top: 60px;
