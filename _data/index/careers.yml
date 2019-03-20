@@ -8,7 +8,7 @@
     detail: Jan. 2019
   job:
     detail: Graduate Software Engineer
-  icon: fa-address-card
+  icon: fa-briefcase
 
 - name:
     detail: Graduation
@@ -25,7 +25,7 @@
   desc:
     detail: I've been an Erasmus student at KU Leuven for 5 months (Sept 2017 - Feb 2018). I deepened my knowledge about software design.
   date:
-    detail: Sep. 2017
+    detail: Sep. 2017 - Feb. 2018
   job:
     detail: Erasmus Student
   icon: fa-graduation-cap
@@ -55,7 +55,7 @@
   desc:
     detail: I worked at Athesys SRL as an internship for my Bachelor's thesis. I learned how to use the MEAN stack to develop the backend part of a web application.
   date:
-    detail: May. 2016
+    detail: May 2016 - July 2016
   job:
     detail: Software Engineer
   icon: icon-nodejs
@@ -65,7 +65,7 @@
   desc:
     detail: I worked at CNR for two months as an internship. I developed a basic content management system based on HTML, PHP, MySQL and JavaScript.
   date:
-    detail: Jun. 2012
+    detail: June 2012 - July 2016
   job:
     detail: Programmer
   icon: icon-php
