@@ -1,11 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Kynetics LLC
+  desc:
+    detail: Working on high level and embedded applications. Small expertise in deploying web applications with Kubernetes and Helm.
+  date:
+    detail: Apr. 2019
+  job:
+    detail: Software Engineer
+  icon: fa-laptop
+
+- name:
     detail: Akka Technologies
   desc:
-    detail: Graduate consultant in the field of software engineering. I have worked in Geneva (Switzerland) and in Sophia-Antipolis (France).
+    detail: Graduate consultant in the field of software engineering. 
   date:
-    detail: Jan. 2019
+    detail: Jan. 2019 - Apr. 2019
   job:
     detail: Graduate Software Engineer
   icon: fa-briefcase
