@@ -1244,7 +1244,7 @@ label.error {
 body {
   font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #2f4050;
-  color: #676a6c;
+  color: black;
   height: 100%;
 }
 
@@ -1907,6 +1907,7 @@ ul.clear-list:first-child {
   p {
     font-size: 15px;
     line-height: 26px;
+    color: black;
   }
 }
 
@@ -2030,7 +2031,7 @@ body {
     display: none;
   }
   &.landing-page {
-    color: #676a6c;
+    color:black;
     font-family: 'Open Sans', helvetica, arial, sans-serif;
     background-color: #fff;
   }
