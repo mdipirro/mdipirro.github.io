@@ -2,12 +2,6 @@ $(function(){
 
     /* build and append preformated code examples */
     $("div#content").find("p").last().after(buildCodeBlocks);
-
-    /* toggle/collapse preformated code blocks */
-    $("pre").bind("click", function(){
-        this.className = this.className.indexOf("collapse") === -1 ?
-            ( "collapse " + this.className ) : this.className.replace("collapse ", "");
-    });
     
     /* apply code highlight */
     $('pre code').each( function(i, e) {
