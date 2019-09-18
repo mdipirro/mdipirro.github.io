@@ -13,21 +13,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 55px;
 }
 
 h2 {
-  font-size: 35px;
+  font-size: 40px;
   color: #143566;
-  font-weight: 500;
+  font-weight: bold;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 30px;
 }
 
 h4 {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 h5 {
@@ -1299,8 +1299,11 @@ a {
 }
 
 .ibox-content {
-  h1, h2, h3, h4, h5 {
-    margin-top: 5px;
+  h1, h2 {
+    margin-top: 50px;
+  }
+  h3, h4, h5 {
+    margin-top: 30px;
   }
 }
 
@@ -1905,9 +1908,10 @@ ul.clear-list:first-child {
     color: #2F4050;
   }
   p {
-    font-size: 15px;
+    font-size: 17px;
     line-height: 26px;
     color: black;
+    margin: 15px 0 25px;
   }
 }
 
