@@ -3,7 +3,7 @@ layout: post
 title:  "Developing a DisplayOnly Bluetooth agent in Qt/C++ with BlueZ and D-Bus - Part 1"
 desc: "Blog"
 keywords: "bluetooth, qt, c++, cpp, embedded, bluetooth agent, bluez, dbus"
-date: 2019-09-10
+date: 2019-09-18
 categories: C++
 tags: [bluetooth, qt, c++, embedded, bluetooth agent, bluez, dbus]
 icon: fa-bookmark-o
