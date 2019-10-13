@@ -1,0 +1,6 @@
+- title: "Solidity 0.5 - When Typed does not mean Type-Safe"
+  event: "1st Workshop on Formal Methods for Blockchain"
+  eventWeb: "https://sites.google.com/view/fmbc/home"
+  venue: "Porto, Portugal"
+  date: "October 2019"
+  slides: "FMBC19-Solidity 05-When_typed_does_not_mean_type_safe.pdf"

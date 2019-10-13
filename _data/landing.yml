@@ -24,6 +24,12 @@
   tpl: writings.html
   css: 
 
+- id: talks
+  i18n: nav.talks
+  name: Talks
+  tpl: talks.html
+  css: 
+
 - id: contacts
   i18n: nav.projects
   name: Contacts

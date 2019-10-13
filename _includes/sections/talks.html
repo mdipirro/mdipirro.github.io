@@ -1,0 +1,24 @@
+<div class="container" id="i18_talks">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <div class="navy-line"></div>
+            <h1><span data-i18n="talks.my_talks">Talks</span></h1>
+            <h4>"I love to talk about nothing. It's the only thing I know anything about."</h4>
+            <h5>- Oscar Wilde</h5>
+        </div>
+    </div>
+    <div class="row features-block">
+        <div class="col-lg-12">
+            <div class="pubs">
+                <ul>
+                {% for talk in site.data.index.talks %}
+                    <li>
+                        <cite>{{ talk.title }}</cite> 
+                        at <a href="{{ talk.eventWeb }}">{{ talk.event }}</a>. {{ talk.venue }}, {{ talk.date }}. [<a href="static/slides/{{ talk.slides }}">Slides</a>]
+                    </li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
