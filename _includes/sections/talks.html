@@ -14,7 +14,18 @@
                 {% for talk in site.data.index.talks %}
                     <li>
                         <cite>{{ talk.title }}</cite> 
-                        at <a href="{{ talk.eventWeb }}">{{ talk.event }}</a>. {{ talk.venue }}, {{ talk.date }}. [<a href="static/slides/{{ talk.slides }}">Slides</a>]
+                        at 
+                        {% if talk.eventWeb %}
+                            <a href="{{ talk.eventWeb }}">{{ talk.event }}</a>.
+                        {% else %}
+                            {{ talk.event }}.
+                        {% endif %}
+
+                        {{ talk.venue }}, {{ talk.date }}.
+
+                        {% if talk.slides %}
+                            [<a href="static/slides/{{ talk.slides }}">Slides</a>]
+                        {% endif %}
                     </li>
                 {% endfor %}
                 </ul>
