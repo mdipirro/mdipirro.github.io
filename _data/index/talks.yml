@@ -4,3 +4,8 @@
   venue: "Porto, Portugal"
   date: "October 2019"
   slides: "FMBC19-Solidity 05-When_typed_does_not_mean_type_safe.pdf"
+
+- title: "From IoT to Edge Computing"
+  event: "Università degli Studi di Padova (University of Padua)"
+  venue: "Advanced Topics in Programming Languages"
+  date: "January 2020"
