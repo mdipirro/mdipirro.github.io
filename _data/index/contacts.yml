@@ -17,6 +17,10 @@
   url: https://twitter.com/mdipirro94
   img: /static/assets/img/landing/twitter.png
 
+- name: Read my Medium publications
+  url: https://medium.com/@matteodipirro
+  img: /static/assets/img/landing/medium.png
+
 - name: Read my CV
   url: /static/cv/CV-Matteo_Di_Pirro.pdf
   img: /static/assets/img/landing/cv.png
