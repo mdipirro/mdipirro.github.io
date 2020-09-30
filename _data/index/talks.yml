@@ -9,3 +9,10 @@
   event: "Università degli Studi di Padova (University of Padua)"
   venue: "Advanced Topics in Programming Languages"
   date: "January 2020"
+
+- title: "Design and Deployment in Edge Computing: A Case Study"
+  event: "Open Networking and Edge Summit 2020"
+  eventWeb: "https://events.linuxfoundation.org/open-networking-edge-summit-north-america/"
+  venue: "Virtual event"
+  date: "Semptember 200"
+  slides: "Design and Deployment in Edge Computing - A Case Study.pdf"
