@@ -16,3 +16,16 @@
   venue: "Virtual event"
   date: "September 2020"
   slides: "Design and Deployment in Edge Computing - A Case Study.pdf"
+
+- title: "Functional IaC - Infrastructure as Code using strongly-typed functional languages"
+  event: "User group presentation (in Italian)"
+  eventWeb: "https://m-u-g.github.io/eventi/2021/11/25/infrastructure-as-code-utilizzando-linguaggi-funzionali-fortemente-tipizzati.html"
+  venue: "MUG - Marca User Group"
+  date: "November 2021"
+
+- title: "Functional IaC - Infrastructure as Code using strongly-typed functional languages"
+  event: "Codemotion Italia 2022"
+  eventWeb: "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-italian-edition-spring#home"
+  venue: "Virtual event (in Italian)"
+  date: "March 2022"
+  slides: "Functional IaC CodeMotion 2022.pdf"
