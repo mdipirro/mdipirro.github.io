@@ -16,6 +16,7 @@
   venue: "Virtual event"
   date: "September 2020"
   slides: "Design and Deployment in Edge Computing - A Case Study.pdf"
+  video: "https://www.youtube.com/watch?v=gG4-NgxDZFo"
 
 - title: "Functional IaC - Infrastructure as Code using strongly-typed functional languages"
   event: "User group presentation (in Italian)"

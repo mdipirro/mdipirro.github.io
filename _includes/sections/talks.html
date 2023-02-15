@@ -26,6 +26,10 @@
                         {% if talk.slides %}
                             [<a href="static/slides/{{ talk.slides }}">Slides</a>]
                         {% endif %}
+
+                        {% if talk.video %}
+                            [<a href="{{ talk.video }}">Slides</a>]
+                        {% endif %}
                     </li>
                 {% endfor %}
                 </ul>
