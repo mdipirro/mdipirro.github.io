@@ -13,9 +13,9 @@
   url: https://www.linkedin.com/in/matteo-di-pirro-435262115/
   img: /static/assets/img/landing/in.png
 
-- name: View my Twitter profile
-  url: https://twitter.com/mdipirro94
-  img: /static/assets/img/landing/twitter.png
+- name: Read my LogRocket articles
+  url: https://blog.logrocket.com/author/matteodipirro/
+  img: /static/assets/img/landing/logrocket.png
 
 - name: Read my Medium publications
   url: https://medium.com/@matteodipirro
