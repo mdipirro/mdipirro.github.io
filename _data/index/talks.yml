@@ -30,3 +30,11 @@
   venue: "Virtual event (in Italian)"
   date: "March 2022"
   slides: "Functional IaC CodeMotion 2022.pdf"
+
+- title: "Eclipse Hara, Updating Embedded Devices with hawkBit Made Easy"
+  event: "EclipseCon 2022"
+  eventWeb: "https://www.eclipsecon.org/2022"
+  venue: "Ludwigsburg, germany"
+  date: "March 2022"
+  slides: "Eclipse Hara Updating Embedded Devices with hawkBit Made Easy.pdf"
+  video: "https://www.youtube.com/watch?v=cMr6ydS993A"
