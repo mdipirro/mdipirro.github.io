@@ -3,7 +3,7 @@
   eventWeb: "https://sites.google.com/view/fmbc/home"
   venue: "Porto, Portugal"
   date: "October 2019"
-  slides: "FMBC19-Solidity 05-When_typed_does_not_mean_type_safe.pdf"
+  slides: "https://speakerdeck.com/mdipirro/solidity-0-dot-5-when-typed-does-not-mean-type-safe"
 
 - title: "From IoT to Edge Computing"
   event: "Università degli Studi di Padova (University of Padua)"
@@ -15,7 +15,7 @@
   eventWeb: "https://events.linuxfoundation.org/open-networking-edge-summit-north-america/"
   venue: "Virtual event"
   date: "September 2020"
-  slides: "Design and Deployment in Edge Computing - A Case Study.pdf"
+  slides: "https://speakerdeck.com/mdipirro/design-and-deployment-in-edge-computing-a-case-study"
   video: "https://www.youtube.com/watch?v=gG4-NgxDZFo"
 
 - title: "Functional IaC - Infrastructure as Code using strongly-typed functional languages"
@@ -29,14 +29,14 @@
   eventWeb: "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-italian-edition-spring#home"
   venue: "Virtual event (in Italian)"
   date: "March 2022"
-  slides: "Functional IaC CodeMotion 2022.pdf"
+  slides: "https://speakerdeck.com/mdipirro/functional-iac"
 
 - title: "Eclipse Hara, Updating Embedded Devices with hawkBit Made Easy"
   event: "EclipseCon 2022"
   eventWeb: "https://www.eclipsecon.org/2022"
   venue: "Ludwigsburg, Germany"
   date: "March 2022"
-  slides: "Eclipse Hara Updating Embedded Devices with hawkBit Made Easy.pdf"
+  slides: "https://speakerdeck.com/mdipirro/eclipse-hara-updating-embedded-devices-with-hawkbit-made-easy"
   video: "https://www.youtube.com/watch?v=cMr6ydS993A"
 
 - title: "Running Docker-Based Integration Tests in Scala A Case Study"
@@ -45,3 +45,4 @@
   venue: "Madrid, Spain"
   date: "September 2023"
   video: "https://www.youtube.com/watch?v=wPWOJRt-t7A&list=PLLMLOC3WM2r6ZFhFfVH74W-sl8LfWtOEc&index=33&t=1s"
+  slides: "https://speakerdeck.com/mdipirro/running-docker-based-integration-tests-in-scala-a-case-study"

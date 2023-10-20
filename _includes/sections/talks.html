@@ -24,7 +24,7 @@
                         {{ talk.venue }}, {{ talk.date }}.
 
                         {% if talk.slides %}
-                            [<a href="static/slides/{{ talk.slides }}">Slides</a>]
+                            [<a href="{{ talk.slides }}">Slides</a>]
                         {% endif %}
 
                         {% if talk.video %}
