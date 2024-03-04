@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Kynetics LLC
+    detail: Kynetics SRL
   desc:
     detail: I take part in the design and development of distributed embedded and web applications. The languages and technologies I use daily strongly depend on customers and projects and include, but are not limited to, Scala (mainly with Akka), C++, Kotlin, Docker, and PHP. My tasks also include the refactoring and re-engineering of existing systems as well as the automatization of the deployment.
   date:
