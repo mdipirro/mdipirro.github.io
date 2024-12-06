@@ -54,3 +54,10 @@
   date: "October 2024"
   video: "https://youtu.be/Wpo_Lw-NQZk?feature=shared"
   slides: "https://speakerdeck.com/mdipirro/can-we-adopt-eclipse-iot-projects-on-android-embedded-devices"
+
+- title: "From Embedded to IaC: Exploring Scala Role Across Modern Applications"
+  event: "Functional Scala 2024"
+  eventWeb: "https://www.functionalscala.com/authors-and-speakers/matteo-di-pirro"
+  venue: "Virtual Event"
+  date: "December 2024"
+  slides: "https://speakerdeck.com/mdipirro/from-embedded-to-iac-exploring-scalas-role-across-modern-applications"
