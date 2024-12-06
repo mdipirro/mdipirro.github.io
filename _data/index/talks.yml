@@ -46,3 +46,11 @@
   date: "September 2023"
   video: "https://www.youtube.com/watch?v=wPWOJRt-t7A&list=PLLMLOC3WM2r6ZFhFfVH74W-sl8LfWtOEc&index=33&t=1s"
   slides: "https://speakerdeck.com/mdipirro/running-docker-based-integration-tests-in-scala-a-case-study"
+
+- title: "Can we adopt Eclipse IoT projects on Android Embedded Devices"
+  event: "OCX 2024"
+  eventWeb: "https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:26bc9d91-446a-49e1-9f08-8fcc4680073e?session=1a01d606-ee79-4405-910a-480591208f62&shareLink=true"
+  venue: "Mainz, Germany"
+  date: "October 2024"
+  video: "https://youtu.be/Wpo_Lw-NQZk?feature=shared"
+  slides: "https://speakerdeck.com/mdipirro/can-we-adopt-eclipse-iot-projects-on-android-embedded-devices"
