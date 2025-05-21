@@ -3,7 +3,7 @@
 - name:
     detail: Kynetics Inc
   desc:
-    detail: I take part in the design and development of distributed embedded and web applications. The languages and technologies I use daily strongly depend on customers and projects and include, but are not limited to, Scala (mainly with Akka), C++, Kotlin, Docker, and PHP. My tasks also include the refactoring and re-engineering of existing systems as well as the automatization of the deployment.
+    detail: I take part in the design and development of distributed, embedded and web applications. The languages and technologies I use daily strongly depend on customers and projects and include, but are not limited to, Scala (mainly with Akka/Pekko), C++, Kotlin and Docker. My tasks also include the refactoring and re-engineering of existing systems, the deployment of Production systems and managing existing infrastructures (using Pulumi and AWS).
   date:
     detail: Apr. 2019
   job:
@@ -43,7 +43,7 @@
 - name:
     detail: MSc
   desc:
-    detail: I started my MSc in Computer Science at University of Padua, minors in "Design of reliable systems" and "Software". 
+    detail: I started my MSc in Computer Science at University of Padua, majors in "Design of reliable systems" and "Software". 
   date:
     detail: Sep. 2016
   job:
