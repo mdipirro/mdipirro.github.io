@@ -62,3 +62,11 @@
   date: "December 2024"
   video: "https://www.youtube.com/watch?v=6u5m1quT0Tg"
   slides: "https://speakerdeck.com/mdipirro/from-embedded-to-iac-exploring-scalas-role-across-modern-applications"
+
+- title: "You don’t need a PhD to try Quantum Computing!"
+  event: "Devoxx Belgium 2025"
+  eventWeb: "https://m.devoxx.com/events/dvbe25/talks/24559/you-dont-need-a-phd-to-try-quantum-computing"
+  venue: "Antwerp, Belgium"
+  date: "October 2025"
+  video: "https://www.youtube.com/watch?v=5Y370b8iTq0"
+  slides: "https://speakerdeck.com/mdipirro/you-dont-need-a-phd-to-try-quantum-computing"
