@@ -70,3 +70,11 @@
   date: "October 2025"
   video: "https://www.youtube.com/watch?v=5Y370b8iTq0"
   slides: "https://speakerdeck.com/mdipirro/you-dont-need-a-phd-to-try-quantum-computing"
+
+- title: "Trust No Input: Taint Analysis at Compile Time"
+  event: "NDC Manchester AI & Security 2025"
+  eventWeb: "https://ndcmanchester.com/agenda/trust-no-input-taint-analysis-at-compile-time-0jxc/00pfthq9cus"
+  venue: "Manchester, United Kingdom"
+  date: "December 2025"
+  video: "https://www.youtube.com/watch?v=-yTEFW2ympk"
+  slides: "https://speakerdeck.com/mdipirro/trust-no-input-taint-analysis-at-compile-time"
