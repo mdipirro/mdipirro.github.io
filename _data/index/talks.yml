@@ -78,3 +78,11 @@
   date: "December 2025"
   video: "https://www.youtube.com/watch?v=-yTEFW2ympk"
   slides: "https://speakerdeck.com/mdipirro/trust-no-input-taint-analysis-at-compile-time"
+
+- title: "Hidden Complexity in Infrastructure as Code Migrations"
+  event: "IDI Incontro DevOps Italia 2026"
+  eventWeb: "https://www.incontrodevops.it/talk/hidden-complexity-in-infrastructure-as-code-migrations/"
+  venue: "Bologna, Italy"
+  date: "March 2026"
+  video: ""
+  slides: "https://speakerdeck.com/mdipirro/hidden-complexity-in-infrastructure-as-code-migrations"
